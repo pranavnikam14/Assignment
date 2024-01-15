@@ -131,18 +131,25 @@
     position: relative;
     overflow: hidden;
     box-shadow: 1px 2px 3px;
+    height: 250px;
 }
 .no-style-type{
     margin-top: 5px;
     list-style-type: none;
     padding-left: 0;
 }
+
 .mt2{
    margin-top: 2%;
 }
+
 .text-bold{
     font-weight: bold;
 }
-.header2{
-    
+
+.job-details{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 15px;
 }
+
